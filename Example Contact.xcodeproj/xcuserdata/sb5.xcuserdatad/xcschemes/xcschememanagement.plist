@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>VContact.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
@@ -23,6 +28,16 @@
 			<true/>
 		</dict>
 		<key>5AB563F71BBB8732004640ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5AB5640E1BBB8747004640ED</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5AB564171BBB8747004640ED</key>
 		<dict>
 			<key>primary</key>
 			<true/>

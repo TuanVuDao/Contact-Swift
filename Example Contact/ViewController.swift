@@ -7,12 +7,15 @@
 //
 
 import UIKit
+import VContact
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
+        let vContact = VContactController()
+        vContact.bar()
     }
 
     override func didReceiveMemoryWarning() {
